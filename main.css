@@ -1,0 +1,100 @@
+body {
+    font-family: "Space Mono", monospace;
+    font-size: 16px;
+    font-weight: 300;
+    background-color: rgb(0, 0, 0);
+    color: rgb(220, 219, 216);
+    height: 695.2px;
+    width: 1407.2px;
+    margin: 0;
+    padding: 64px 32px 32px 80px;
+    display: flex;
+    overflow: hidden auto;
+}
+
+.home {
+    font-size: 16px;
+    font-weight: 300;
+    background-color: transparent;
+    color: rgb(220, 219, 216);
+    height: 278.8px;
+    width: 1407.2px;
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
+.space {
+    font-size: 16px;
+    font-weight: 300;
+    background-color: rgb(0, 0, 0);
+    color: rgb(220, 219, 216);
+    height: 0px;
+    width: 1387.2px;
+    margin: 0 0 10px;
+    padding: 10px;
+    display: block;
+}
+
+.kryo {
+    font-size: 20px;
+    font-weight: 700;
+    background-color: transparent;
+    color: rgb(220, 219, 216);
+    height: 29.6px;
+    width: 73.45px;
+    display: inline-block;
+    word-wrap: break-word;
+}
+
+header {
+    font-size: 16px;
+    font-weight: 300;
+    text-align: start;
+    color: rgb(220, 219, 216);
+    background-color: transparent;
+    height: 23.2px;
+    width: 1407.2px;
+    margin: 0;
+    padding: 16px 160px 16px 0;
+    display: flex;
+}
+
+a {
+    font-size: 15px;
+    font-weight: 700;
+    color: rgb(114, 96, 214);
+    text-decoration: none;
+    height: 22.4px;
+    width: 36.725px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.about {
+    font-size: 16px;
+    font-weight: 300;
+    color: rgb(220, 219, 216);
+    background-color: transparent;
+    height: 92.8px;
+    width: 1407.2px;
+    margin: 32px 0 0;
+    display: block;
+}
+
+.about-text,
+footer {
+    margin: 16px 0;
+}
+
+.links {
+    font-size: 12.8px;
+    font-weight: 300;
+    text-decoration: underline;
+    text-decoration-color: rgb(220, 219, 216);
+    text-underline-offset: 2px;
+    color: rgb(220, 219, 216);
+    margin: 25.6px 0 0;
+    display: inline;
+    cursor: pointer;
+}
